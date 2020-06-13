@@ -6,6 +6,14 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+|    | country     | continent   |   year |   lifeExp |      pop |   gdpPercap | iso_alpha   |   iso_num |
+|---:|:------------|:------------|-------:|----------:|---------:|------------:|:------------|----------:|
+|  0 | Afghanistan | Asia        |   1952 |    28.801 |  8425333 |     779.445 | AFG         |         4 |
+|  1 | Afghanistan | Asia        |   1957 |    30.332 |  9240934 |     820.853 | AFG         |         4 |
+|  2 | Afghanistan | Asia        |   1962 |    31.997 | 10267083 |     853.101 | AFG         |         4 |
+|  3 | Afghanistan | Asia        |   1967 |    34.02  | 11537966 |     836.197 | AFG         |         4 |
+|  4 | Afghanistan | Asia        |   1972 |    36.088 | 13079460 |     739.981 | AFG         |         4 |
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
