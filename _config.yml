@@ -1,1 +1,6 @@
+title: Minimal theme
+logo: /Images/embalse.jpg
+description: Graficas interactivas para el analisis de la informacion. 
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
