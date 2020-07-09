@@ -2,7 +2,7 @@
 1. [Hidrotiuango](./Hidroituango) 
 2. [Catalogo de estaciones de Guaviare](https://camilogutierrez.github.io/Catalogo_Guaviare) 
 3. [Curvas de Calibracion](https://camilogutierrez.github.io/Calibracion_Anual)
-    * [Curvas de Calibracion](https://camilogutierrez.github.io/Curvas)
+    * [Discriminando](https://camilogutierrez.github.io/Curvas)
 4. [EPM vs IDEAM](https://camilogutierrez.github.io/ideam_epm)
 
 ## [ML](https://camilogutierrez.github.io/MachineLearning) 
