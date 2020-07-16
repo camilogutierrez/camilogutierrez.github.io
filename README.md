@@ -6,7 +6,7 @@
 4. [EPM vs IDEAM](https://camilogutierrez.github.io/ideam_epm)
 5. [Sedimentos](https://camilogutierrez.github.io/Sedimentos)
 
-## [ML](https://camilogutierrez.github.io/MachineLearning) 
+## [ML](./MachineLearning) 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 |    | country     | continent   |   year |   lifeExp |      pop |   gdpPercap | iso_alpha   |   iso_num |
@@ -19,7 +19,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./another-page).
 
 ### Markdown
 
