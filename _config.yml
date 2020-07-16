@@ -3,7 +3,7 @@ logo: /Images/embalse.jpg
 description: Graficas interactivas para el analisis de la informacion. 
 show_downloads: true
 author: Some Person
-favicon: favicon.ico
+favicon: /Images/favicon.ico
 google_analytics:
 theme: jekyll-theme-minimal
 plugins:
