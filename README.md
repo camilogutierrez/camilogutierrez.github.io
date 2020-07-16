@@ -4,7 +4,7 @@
 3. [Curvas de Calibracion](https://camilogutierrez.github.io/Calibracion_Anual)
     * [Discriminando](https://camilogutierrez.github.io/Curvas)
 4. [EPM vs IDEAM](https://camilogutierrez.github.io/ideam_epm)
-5. [Sedimentos](https://camilogutierrez.github.io/Sedimentos.html)
+5. [Sedimentos](https://camilogutierrez.github.io/Sedimentos)
 
 ## [ML](https://camilogutierrez.github.io/MachineLearning) 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
