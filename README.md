@@ -1,3 +1,4 @@
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 ## Graficas interactivas
 1. [Hidrotiuango](./Hidroituango) 
 2. [Catalogo de estaciones de Guaviare](https://camilogutierrez.github.io/Catalogo_Guaviare) 
