@@ -17,6 +17,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 |  3 | Afghanistan | Asia        |   1967 |    34.02  | 11537966 |     836.197 | AFG         |         4 |
 |  4 | Afghanistan | Asia        |   1972 |    36.088 | 13079460 |     739.981 | AFG         |         4 |
 
+Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+[Link to another page](./another-page.html).
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
